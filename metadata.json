@@ -1,0 +1,5 @@
+{
+  "name": "WebOS x86",
+  "description": "A fully featured Web OS with a working x86 emulator (v86), window manager, virtual file system, and multiple applications.",
+  "requestFramePermissions": []
+}
